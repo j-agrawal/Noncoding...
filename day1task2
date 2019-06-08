@@ -1,0 +1,3 @@
+Problem: concept of recycle bin
+Solution: when we delete any folder or file fron any drive then it is sent to recycle bin.
+Till the time the file is present in recycle bin it will use the storage of drive only though it was deleted from there. so to free the space we need to delete the file from recycle bin also.
