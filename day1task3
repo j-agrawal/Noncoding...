@@ -1,0 +1,7 @@
+Problem : make 10 folders in windows automatically.
+Solution: 
+	step 1: create a notepad file.
+	step 2: write the names of the 10 folders to be created with md before name.	
+	step 3: save the file with a.cmd extension.
+	step 4: now open the saved file.
+	step 5: 10 folders are created with the names specified in notepad file.
